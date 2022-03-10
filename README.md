@@ -1,6 +1,5 @@
 ## Python - 100天从新手到大师
 
-> **作者**：骆昊
 >
 > **说明**：从项目上线到获得8w+星标以来，一直收到反馈说基础部分（前15天的内容）对新手来说是比较困难的，建议有配套视频进行讲解。最近把基础部分的内容重新制作了一个名为[“Python-Core-50-Courses”](<https://github.com/jackfrued/Python-Core-50-Courses>)的项目，**用更为简单通俗的方式重写了这部分内容并附带了视频讲解**，初学者可以关注下这个新项目。如果需要**Python基础视频**，可以在“B站”搜索[《Python零基础快速上手》](https://www.bilibili.com/video/BV1FT4y1R7sz)，这套视频是我讲课的时候录制的随堂视频，画质尚可、音质一般，但是对初学者应该会有些帮助，欢迎大家留言、评论、发弹幕。学习之后觉得有收获的小伙伴可以“一键三连”来支持UP主（千锋Python）。国内用户如果访问GitHub比较慢的话，可以关注我的**知乎号[Python-Jack](https://www.zhihu.com/people/jackfrued)**，上面的[“从零开始学Python”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏比较适合初学者，其他的专栏也在持续创作和更新中，欢迎大家关注并点赞评论。
 >
@@ -8,7 +7,6 @@
 >
 > 项目“Day80~90”部分目前仍在创作中，因为作者平时也挤不出太多时间来写文档，因此更新的速度比较缓慢，感谢大家的理解。
 
-<img src="https://gitee.com/jackfrued/mypic/raw/master/20211120192545.png">
 
 ### Python应用领域和职业发展分析
 
